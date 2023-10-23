@@ -1,0 +1,36 @@
+Test case 1: //overlap 4
+    Bomb 1: (X: 100, Y: 100, Radius: 50)
+    Bomb 2: (X: 150, Y: 100, Radius: 50)
+    Bomb 3: (X: 150, Y: 150, Radius: 50)
+    Bomb 4: (X: 100, Y: 150, Radius: 50)
+
+Test case 2: //overlap 3
+
+    Bomb 1: (X: 100, Y: 100, Radius: 50)
+    Bomb 2: (X: 150, Y: 100, Radius: 50)
+    Bomb 3: (X: 200, Y: 100, Radius: 50)
+
+Test case 3: //overlap 2
+
+    Bomb 1: (X: 100, Y: 100, Radius: 50)
+    Bomb 2: (X: 150, Y: 100, Radius: 50)
+    Bomb 3: (X: 175, Y: 150, Radius: 50)
+    Bomb 4: (X: 125, Y: 150, Radius: 50)
+
+Test case 4: //overlap 1
+
+    Bomb 1: X: 100, Y: 100, Radius: 40
+    Bomb 2: X: 150, Y: 100, Radius: 30
+    Bomb 3: X: 170, Y: 150, Radius: 35
+    Bomb 4: X: 200, Y: 200, Radius: 20
+    Bomb 5: X: 250, Y: 250, Radius: 30
+
+Test case 5: //overlap 2
+
+    Bomb 1: X: 100, Y: 100, Radius: 50
+    Bomb 2: X: 150, Y: 100, Radius: 40
+
+Test case 6: //non-overlap 1
+
+    Bomb 1: X: 100, Y: 100, Radius: 50
+    Bomb 2: X: 300, Y: 300, Radius: 30
